@@ -1,3 +1,3 @@
-# main_project
+# Vector in C
 
-hello there 
+This is the implementation of a vector in C.
